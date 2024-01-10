@@ -7,7 +7,6 @@ Despues dirigirse a su navegador y digitar la url "localhost:8080/saludo"
 
 Pasos para utilizar Docker:
 
-Para preparar el jar y subirlo a docker utilizar en terminal dentro de 
 
 Para crear el docker con el tag "springservice" utilizar: docker build -t springservice .
 
