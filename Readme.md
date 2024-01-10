@@ -11,7 +11,7 @@ Para preparar el jar y subirlo a docker utilizar en terminal dentro de
 
 Para crear el docker con el tag "springservice" utilizar: docker build -t springservice .
 
-Para correr el docker en el puerto 3001:8080/$url utiliza: docker run -it -rm -p 3001:8080 --name myspringservice springservice
+Para correr el docker en el puerto 3001:8080/$url utiliza: docker run -it --rm -p 3001:8080 --name myspringservice springservice
 
 
 mvn clean package: preparar el .jar para subirlo a docker
