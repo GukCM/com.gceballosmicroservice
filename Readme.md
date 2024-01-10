@@ -1,7 +1,7 @@
 Requisitos: 
 *Tener instalado maven y java con sus respectivas variables de entorno
 
-Para correr el proyecto en local, dirigirse a la carpeta raiz del proyecto C:/..../gusgus y utilizar el comando en terminal: ./mvnw spring-boot:run
+Para correr el proyecto en local, dirigirse a la carpeta raiz del proyecto C:/..../com.gceballosmicroservice y utilizar el comando en terminal: ./mvnw spring-boot:run
 
 Despues dirigirse a su navegador y digitar la url "localhost:8080/saludo"
 
